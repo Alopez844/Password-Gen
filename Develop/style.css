@@ -10,11 +10,11 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: #c0c7cf;
 }
 
 body {
   font-family: sans-serif;
-  background-color: #f9fbfd;
 }
 
 .wrapper {
